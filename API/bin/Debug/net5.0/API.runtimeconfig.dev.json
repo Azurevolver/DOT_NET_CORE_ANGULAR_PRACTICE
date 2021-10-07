@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Volumes/MacintoshHD/yuanchingchen/.dotnet/store/|arch|/|tfm|",
+      "/Volumes/MacintoshHD/yuanchingchen/.nuget/packages"
+    ]
+  }
+}
